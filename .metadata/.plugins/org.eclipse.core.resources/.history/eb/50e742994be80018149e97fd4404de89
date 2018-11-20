@@ -1,0 +1,5 @@
+package co.qa.SweetSpot.repository;
+
+public class personRepository {
+
+}
